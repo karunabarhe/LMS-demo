@@ -1,0 +1,47 @@
+# Backend
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+backend/.settings/
+backend/.project
+backend/.classpath
+backend/bin/
+backend/*.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/.vite/
+frontend/*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.sql
+*.db
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Temporary files
+tmp/
+temp/
